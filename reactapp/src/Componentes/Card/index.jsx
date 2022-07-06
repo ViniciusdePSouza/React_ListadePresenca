@@ -2,9 +2,9 @@ import './styles.css'
 
 export function Card(props){
     return(
-        <div calssName="card">
+        <div className="card">
             <strong>{props.name}</strong>
-            <small>{props.times}</small>
+            <small>{props.time}</small>
         </div>
     )
 }
