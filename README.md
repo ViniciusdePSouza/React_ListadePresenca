@@ -1,4 +1,4 @@
-# React_Study
+# Lista de Presença / Attendance List
 
  Esse é um projeto com fins de estudo. 
 
